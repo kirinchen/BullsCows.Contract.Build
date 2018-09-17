@@ -288,10 +288,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        4475,
-                        4476
+                        4283,
+                        4284
                       ],
-                      "referencedDeclaration": 4475,
+                      "referencedDeclaration": 4283,
                       "src": "205:7:0",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -374,7 +374,7 @@
                         "name": "msg",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 4472,
+                        "referencedDeclaration": 4280,
                         "src": "303:3:0",
                         "typeDescriptions": {
                           "typeIdentifier": "t_magic_message",
@@ -850,10 +850,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        4475,
-                        4476
+                        4283,
+                        4284
                       ],
-                      "referencedDeclaration": 4475,
+                      "referencedDeclaration": 4283,
                       "src": "205:7:0",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -936,7 +936,7 @@
                         "name": "msg",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 4472,
+                        "referencedDeclaration": 4280,
                         "src": "303:3:0",
                         "typeDescriptions": {
                           "typeIdentifier": "t_magic_message",
@@ -1190,5 +1190,5 @@
   },
   "networks": {},
   "schemaVersion": "2.0.1",
-  "updatedAt": "2018-09-16T07:55:36.233Z"
+  "updatedAt": "2018-09-17T07:35:25.132Z"
 }
